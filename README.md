@@ -18,7 +18,7 @@ and "The Spirit of Codeathon" categories. [📎](https://web.archive.org/web/201
 
 
 #### 📫 How to reach me
-You can reach me on telegram https://t.me/nsetyo, twitter [@nsetyo](https://twitter.com/nsetyo).
+You can reach me on telegram https://t.me/nsetyo, or twitter [@nsetyo](https://twitter.com/nsetyo).
 In my sparetime I also answering question at [Laravel Indonesia](https://t.me/laravelindonesia).
 
 
