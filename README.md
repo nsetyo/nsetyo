@@ -6,10 +6,10 @@ PHP, and Javascript/Typescript. Currently I'm working with Laravel and Vue.js as
 main framework. I'm, also capable in working with database management tools
 (MySQL and PostgreSQL), managing GNU/Linux server, and using DevOps tools like Docker.
 
-#### Achievement
+#### 🏆 Achievement
 - In 2018 I (and my team) won a second place for team spirit and "where is
 the money?" category at [Codeathon2018](https://codefor.asia/codeathon2018/) held
-in Malaysia. [📎](https://web.archive.org/web/20191230100307/http://www.ppatk.go.id/siaran_pers/read/724/delegasi-ppatk-raih-peringkat-kedua-kompetisi-codeathon.html)
+in Kuala Lumpur, Malaysia. [📎](https://web.archive.org/web/20191230100307/http://www.ppatk.go.id/siaran_pers/read/724/delegasi-ppatk-raih-peringkat-kedua-kompetisi-codeathon.html)
 
 - In 2019 Me and my team (different team member with 2018 event) joining
 [Codeathon2019](https://www.austrac.gov.au/asean-australia-codeathon-counter-terrorism-financing-starts-sydney-tomorrow)
