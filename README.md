@@ -6,6 +6,10 @@ PHP, and Javascript/Typescript. Currently I'm working with Laravel and Vue.js as
 main framework. I'm, also capable in working with database management tools
 (MySQL and PostgreSQL), managing GNU/Linux server, and using DevOps tools like Docker.
 
+#### 📫 How to reach me
+You can reach me on telegram https://t.me/nsetyo, or twitter [@nsetyo](https://twitter.com/nsetyo).
+In my sparetime I also answering question at [Laravel Indonesia](https://t.me/laravelindonesia).
+
 #### 🏆 Achievement
 - In 2018 I (and my team) won a second place for team spirit and "where is
 the money?" category at [Codeathon2018](https://codefor.asia/codeathon2018/) held
@@ -16,10 +20,6 @@ in Kuala Lumpur, Malaysia. [📎](https://web.archive.org/web/20191230100307/htt
 and winning "Disrupting Money Launderers, Terrorists and Cyber Criminals across ASEAN - Australia"
 and "The Spirit of Codeathon" categories. [📎](https://web.archive.org/web/20180326051336/https://m.tribunnews.com/nasional/2018/03/26/indonesia-juarai-kompetisi-anti-pendanaan-terorisme-berbasis-digital)
 
-
-#### 📫 How to reach me
-You can reach me on telegram https://t.me/nsetyo, or twitter [@nsetyo](https://twitter.com/nsetyo).
-In my sparetime I also answering question at [Laravel Indonesia](https://t.me/laravelindonesia).
 
 
 
