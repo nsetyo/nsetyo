@@ -16,10 +16,6 @@ main framework. I'm, also capable in working with database management tools
 </div>
 
 
-#### 📫 How to reach me
-You can reach me on telegram https://t.me/nsetyo, or twitter [@nsetyo](https://twitter.com/nsetyo).
-
-
 <!--
 **nsetyo/nsetyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
