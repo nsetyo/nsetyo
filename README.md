@@ -6,6 +6,9 @@ PHP, and Javascript/Typescript. Currently I'm working with Laravel and Vue.js as
 main framework. I'm, also capable in working with database management tools
 (MySQL and PostgreSQL), managing GNU/Linux server, and using DevOps tools like Docker.
 
+
+Connect with me on <a rel="me" href="https://pegelinux.top/@nsetyo">Mastodon</a>
+
 <div style="display:flex;">
   <div>  
     <img src="https://github-readme-stats.vercel.app/api?username=nsetyo&show_icons=true&hide_border=true" alt="Setyo's GitHub stats">
@@ -14,6 +17,7 @@ main framework. I'm, also capable in working with database management tools
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsetyo&layout=compact&hide_border=true" alt="Top Langs">
   </div>
 </div>
+
 
 
 <!--
