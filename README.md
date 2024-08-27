@@ -1,10 +1,6 @@
 ### Hi there, my name is Setyo 👋
 
-I'm a passionate full-stack developer with 10 years programming experience. I have
-solid background and advanced knowledge in web development including HTML/CSS,
-PHP, JavaScript/Typescript, and a bit of Rust. I'm also a certified ethical hacker 
-with decent knowledge in cryptography whose capable in working database management 
-tools (MySQL and PostgreSQL), managing GNU/Linux server, and using DevOps tools like Docker.
+I'm a passionate full-stack developer with 10 years programming experience. I have a solid background and advanced knowledge in web development including HTML/CSS, PHP, JavaScript/Typescript, and a bit of Rust. Not only that, but I'm also a certified ethical hacker with decent knowledge in cryptography and capable in working database management tools (MySQL and PostgreSQL), managing GNU/Linux server, and using DevOps tools like Docker.
 
 
 Connect with me on <a rel="me" href="https://pegelinux.top/@nsetyo">Mastodon</a>
